@@ -1,8 +1,4 @@
 #coding=utf8
-import pdb
-###############
-import sys
-sys.path.append('/home/lifeng/opensource/pyalgotrade')
 from pyalgotrade import observer
 from pyalgotrade import dataseries
 import datetime

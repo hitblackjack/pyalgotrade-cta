@@ -1,7 +1,5 @@
 #coding=utf8
 import abc
-import sys
-sys.path.append('/home/lifeng/opensource/pyalgotrade/pyalgotrade')
 from pyalgotrade import logger
 from pyalgotrade import observer
 from pyalgotrade import dispatchprio

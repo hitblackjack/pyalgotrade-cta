@@ -4,7 +4,7 @@ from pyalgotrade.broker.backtestTickBroker import *
 from pyalgotrade.feed.csvTickFeed import *
 from pyalgotrade.strategy.tickStrategy import *
 from pyalgotrade.dataseries import aligned
-import plotter
+from pyalgotrade.strategy import plotter
 import pdb
 import numpy as np
 
