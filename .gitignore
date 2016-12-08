@@ -15,3 +15,4 @@ testcases/twitter_credentials.py
 
 *egg
 *swp
+*.con
